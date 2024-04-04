@@ -134,6 +134,9 @@
       <path value="$PROJECT_DIR$/SOLID/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/SOLID/vendor/doctrine/lexer" />
       <path value="$PROJECT_DIR$/SOLID/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/SOLID/vendor/amocrm/oauth2-amocrm" />
+      <path value="$PROJECT_DIR$/SOLID/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/SOLID/vendor/league/oauth2-client" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
